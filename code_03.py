@@ -2,7 +2,7 @@ import requests
 import json 
 # And main thing this code is written specific for spoonacular.com
 #  Add you api key 
-API_KEY = "6c94d60fef2544acb2100ef8a6284625" 
+API_KEY = "6c94d60fef2544acb2100ef8a6284625744733" 
 API_URL_SEARCH = "https://api.spoonacular.com/recipes/complexSearch"
 API_URL_DETAILS = "https://api.spoonacular.com/recipes/{id}/information"
 
@@ -161,4 +161,5 @@ def main():
             print("Invalid choice. Please enter a number between 1 and 5.")
 
 if __name__ == "__main__":
+
     main()
