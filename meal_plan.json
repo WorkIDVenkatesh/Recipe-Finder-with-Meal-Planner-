@@ -1,0 +1,53 @@
+{
+    "Monday": {
+        "Breakfast": null,
+        "Lunch": null,
+        "Dinner": null
+    },
+    "Tuesday": {
+        "Breakfast": null,
+        "Lunch": null,
+        "Dinner": null
+    },
+    "Wednesday": {
+        "Breakfast": null,
+        "Lunch": null,
+        "Dinner": null
+    },
+    "Thursday": {
+        "Breakfast": null,
+        "Lunch": null,
+        "Dinner": null
+    },
+    "Friday": {
+        "Breakfast": null,
+        "Lunch": null,
+        "Dinner": null
+    },
+    "Saturday": {
+        "Breakfast": null,
+        "Lunch": null,
+        "Dinner": {
+            "name": "Baked Oatmeal with Dried Cranberries",
+            "ingredients": [
+                "1 cup almond milk (I used original unsweetened)",
+                "2 tsp baking powder",
+                "2 very ripe bananas, mashed",
+                "1 1/2 tsp cinnamon",
+                "1 cup dried cranberries",
+                "2 eggs",
+                "1 tbsp flaxseeds",
+                "3 cups dry oats (I used old fashioned oats)",
+                "1/4 teaspoon Salt",
+                "1 tsp vanilla extract"
+            ],
+            "instructions": "<ol><li>1.Preheat oven to 350F</li><li>2.Mix dry ingredients until well combined.</li><li>3. Mix liquid ingredients separately.</li><li>4.Add the liquid ingredients to the dry mix.</li><li>5.Mix well.</li><li>5.Spray a pan with a non-stick spray - the smaller the pan, the thicker the bars will be.</li><li>6.Pour the mix into the pan.</li><li>7.Bake for 45 minutes.</li><li>8.Enjoy!</li></ol>",
+            "category": "General"
+        }
+    },
+    "Sunday": {
+        "Breakfast": null,
+        "Lunch": null,
+        "Dinner": null
+    }
+}
